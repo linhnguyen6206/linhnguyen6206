@@ -6,5 +6,6 @@
 ## Experience / Activities
 - Help Desk Student Technician
 - Girls Who Code
+- Owl Investment Group
 - Rewriting the Code Member
 
