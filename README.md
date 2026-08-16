@@ -7,6 +7,8 @@
 
 ## Experience / Activities
 - Help Desk Student Technician
+- Product Management Society
+- Association of International Students
 - Girls Who Code
-- Owl Investment Group
+- Vietnamese Students Association
 - Rewriting the Code Member
