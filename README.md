@@ -6,6 +6,8 @@
 - Outside of classwork and projects, I enjoy reading books, trying new cuisines, and solo traveling!
 
 ## Experience / Activities
+- Research Assistant
+- Systems Programming Teaching Assistant
 - Help Desk Student Technician
 - Product Management Society
 - Association of International Students
